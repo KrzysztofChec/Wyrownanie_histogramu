@@ -1,5 +1,17 @@
 ## Histogram
 
+## Efekt przed: 
+
+![image](https://github.com/KrzysztofChec/Wyrownanie_histogramu/assets/126595487/1474a5b7-83ee-4cc3-bb17-8190c43c3a6c)
+
+
+## Efekt po:
+
+![image](https://github.com/KrzysztofChec/Wyrownanie_histogramu/assets/126595487/17df97cf-57b5-4b29-93f4-df75772d333b)
+![image](https://github.com/KrzysztofChec/Wyrownanie_histogramu/assets/126595487/42f55e23-94bb-4753-bac3-0c306b760a26)
+
+
+
 ### Opis
 Klasa `Histogram` zawiera metody do manipulacji obrazami, generowania histogramów i wykonywania operacji na pikselach.
 
